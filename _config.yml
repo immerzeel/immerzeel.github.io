@@ -1,0 +1,12 @@
+name: Pascal Immerzeel
+description: about things on my mind
+meta_description: "Pascal Immerzeel's blog about things on his mind"
+
+markdown: redcarpet
+pygments: true
+paginate: 15
+logo: /assets/images/shield_logo_inverted.svg
+
+# Details for the RSS feed generator
+url:            'http://www.immerzeel.net'
+author:         'Pascal Immerzeel'
