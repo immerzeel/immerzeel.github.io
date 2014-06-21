@@ -1,0 +1,37 @@
+{
+  "author": "Pascal Immerzeel (http://www.immerzeel.net)",
+  "name": "immerzeel.net",
+  "description": "Main website",
+  "version": "0.1.0",
+  "homepage": "http://www.immerzeel.net",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/immerzeel/immerzeel.github.io.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+	"grunt",
+	"load-grunt-config",
+	"grunt-newer",
+	"grunt-concurrent",
+
+	"grunt-contrib-clean",
+	"grunt-contrib-copy",
+	"grunt-contrib-concat",
+	
+	"grunt-contrib-jshint",
+	"grunt-scss-lint",
+	
+	"grunt-contrib-jasmine,
+
+	"grunt-contrib-imagemin",
+	"grunt-contrib-requirejs",
+
+	"grunt-phantomas",
+	"grunt-jsdoc"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
